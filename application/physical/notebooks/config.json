@@ -1,14 +1,15 @@
 {
     "db": {
-        "mylocalhost": {
+        "T530-2017": {
             "database": "tankerkoenig",
             "host": "127.0.0.1",
-            "password": "********",
+            "password": "************",
             "port": 5432,
-            "user": "********"
+            "user": "************"
         }
     },
-    "tk": {
-        "apikey": "********-****-****-****-************"
+    "tankerkoenig": {
+        "apikey": "********-****-****-****-************",
+        "url_prices": "https://creativecommons.tankerkoenig.de/json/prices.php"
     }
 }
